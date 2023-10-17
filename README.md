@@ -56,10 +56,7 @@ Objective: Analyze if there is a relationship between the price range and the av
 
 Implementation: In this task, we will investigate whether there is a connection between the price range of restaurants and their willingness to offer online delivery and table booking services. We will calculate the proportion of higher-priced restaurants that provide these services compared to lower-priced ones. This analysis can reveal whether pricing influences the availability of these conveniences for customers.
 
-By completing these tasks at different levels, we aim to provide a comprehensive understanding of the restaurant dataset. The analyses will help Cognifyz Technologies make data-driven decisions and gain valuable insights into the restaurant industry. Each task's results will be documented and shared in the project repository for further reference and analysis.
-
-@@ -1 +1,77 @@
- # Data-Analysis-Intern-at-Cognifyz-Technologies 
+By completing these tasks at different levels, we aim to provide a comprehensive understanding of the restaurant dataset. The analyses will help Cognifyz Technologies make data-driven decisions and gain valuable insights into the restaurant industry. Each task's results will be documented and shared in the project repository for further reference and anal
  # Data-Analysis-Intern-at-Cognifyz-Technologies
 
  # Cognifyz Data Analysis Project
